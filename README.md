@@ -1,6 +1,6 @@
 # Sasquatch Cam
 ## Location: Hailey, ID
-### Current Conditions: Toe Deep
+### Current Conditions: Knee Deep
 
 ![](/squatch.jpg)
 
